@@ -1,0 +1,79 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "width": 1000,
+      "height": 60
+    }
+  },
+  "root": {
+    "type": "ia.container.flex",
+    "version": 0,
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "row",
+      "style": {
+        "padding": "6px",
+        "gap": "12px",
+        "overflow": "auto",
+        "backgroundColor": "#f1f5f9",
+        "color": "#102a43"
+      }
+    },
+    "children": [
+      {
+        "type": "ia.input.button",
+        "version": 0,
+        "meta": {
+          "name": "Overview"
+        },
+        "position": {
+          "basis": "140px",
+          "shrink": 0
+        },
+        "props": {
+          "text": "Overview"
+        },
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "type": "script",
+              "scope": "G",
+              "config": {
+                "script": "\tsystem.perspective.navigate(page=\"/\")"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ia.input.button",
+        "version": 0,
+        "meta": {
+          "name": "History"
+        },
+        "position": {
+          "basis": "140px",
+          "shrink": 0
+        },
+        "props": {
+          "text": "History"
+        },
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "type": "script",
+              "scope": "G",
+              "config": {
+                "script": "\tsystem.perspective.navigate(page=\"/history\")"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

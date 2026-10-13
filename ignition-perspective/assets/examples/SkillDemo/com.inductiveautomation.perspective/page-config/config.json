@@ -1,0 +1,28 @@
+{
+  "pages": {
+    "/": {
+      "viewPath": "Overview",
+      "title": "Skill Demo"
+    },
+    "/history": {
+      "viewPath": "History",
+      "title": "Sample history"
+    }
+  },
+  "sharedDocks": {
+    "cornerPriority": "left-right",
+    "left": [],
+    "right": [],
+    "top": [
+      {
+        "viewPath": "Navigation/Header",
+        "id": "skill-nav",
+        "size": 64,
+        "content": "push",
+        "anchor": "fixed",
+        "show": "visible"
+      }
+    ],
+    "bottom": []
+  }
+}

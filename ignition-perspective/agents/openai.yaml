@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ignition Perspective"
+  short_description: "Create and edit native Ignition 8.3 Perspective views"
+  default_prompt: "Use $ignition-perspective to create or update my Perspective views, package their dependencies, and validate them in Ignition 8.3."

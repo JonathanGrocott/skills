@@ -1,0 +1,6 @@
+{
+  "title": "Perspective Skill Demo",
+  "description": "Synthetic fixtures: no device writes, database, or historian required.",
+  "enabled": true,
+  "inheritable": false
+}

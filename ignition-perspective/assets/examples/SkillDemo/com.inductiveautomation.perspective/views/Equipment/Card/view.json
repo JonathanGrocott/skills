@@ -1,0 +1,121 @@
+{
+  "custom": {},
+  "params": {
+    "assetName": "Example asset",
+    "value": 0,
+    "units": "units"
+  },
+  "props": {
+    "defaultSize": {
+      "width": 280,
+      "height": 180
+    }
+  },
+  "root": {
+    "type": "ia.container.flex",
+    "version": 0,
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column",
+      "style": {
+        "padding": "20px",
+        "gap": "12px",
+        "overflow": "auto",
+        "backgroundColor": "#f1f5f9",
+        "color": "#102a43"
+      }
+    },
+    "children": [
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "AssetName"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Equipment",
+          "style": {
+            "fontSize": "22px"
+          }
+        },
+        "propConfig": {
+          "props.text": {
+            "binding": {
+              "type": "expr",
+              "config": {
+                "expression": "{view.params.assetName}"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Value"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "0",
+          "style": {
+            "fontSize": "16px"
+          }
+        },
+        "propConfig": {
+          "props.text": {
+            "binding": {
+              "type": "expr",
+              "config": {
+                "expression": "toStr({view.params.value}) + \" \" + {view.params.units}"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Source"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Synthetic demonstration value",
+          "style": {
+            "fontSize": "12px"
+          }
+        }
+      }
+    ]
+  },
+  "propConfig": {
+    "params.assetName": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.value": {
+      "paramDirection": "input",
+      "persistent": true
+    },
+    "params.units": {
+      "paramDirection": "input",
+      "persistent": true
+    }
+  }
+}

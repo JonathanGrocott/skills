@@ -1,0 +1,171 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "width": 1000,
+      "height": 700
+    }
+  },
+  "root": {
+    "type": "ia.container.flex",
+    "version": 0,
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column",
+      "style": {
+        "padding": "20px",
+        "gap": "12px",
+        "overflow": "auto",
+        "backgroundColor": "#f1f5f9",
+        "color": "#102a43"
+      }
+    },
+    "children": [
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Title"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Sample history",
+          "style": {
+            "fontSize": "28px"
+          }
+        }
+      },
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Notice"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Fixed sample data; replace with a verified history/query binding.",
+          "style": {
+            "fontSize": "14px"
+          }
+        }
+      },
+      {
+        "type": "ia.chart.timeseries",
+        "version": 0,
+        "meta": {
+          "name": "Trend"
+        },
+        "position": {
+          "basis": "300px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "series": [
+            {
+              "name": "Sample",
+              "data": [
+                {
+                  "time": 1791820800000,
+                  "temperature": 20,
+                  "pressure": 10.0
+                },
+                {
+                  "time": 1791820860000,
+                  "temperature": 21,
+                  "pressure": 10.5
+                },
+                {
+                  "time": 1791820920000,
+                  "temperature": 22,
+                  "pressure": 11.0
+                },
+                {
+                  "time": 1791820980000,
+                  "temperature": 23,
+                  "pressure": 11.5
+                },
+                {
+                  "time": 1791821040000,
+                  "temperature": 24,
+                  "pressure": 12.0
+                },
+                {
+                  "time": 1791821100000,
+                  "temperature": 25,
+                  "pressure": 12.5
+                }
+              ]
+            }
+          ],
+          "plots": [],
+          "title": {
+            "text": "Synthetic temperature and pressure",
+            "visible": true
+          }
+        }
+      },
+      {
+        "type": "ia.display.table",
+        "version": 0,
+        "meta": {
+          "name": "HistoryTable"
+        },
+        "position": {
+          "basis": "240px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "data": [
+            {
+              "time": 1791820800000,
+              "temperature": 20,
+              "pressure": 10.0
+            },
+            {
+              "time": 1791820860000,
+              "temperature": 21,
+              "pressure": 10.5
+            },
+            {
+              "time": 1791820920000,
+              "temperature": 22,
+              "pressure": 11.0
+            },
+            {
+              "time": 1791820980000,
+              "temperature": 23,
+              "pressure": 11.5
+            },
+            {
+              "time": 1791821040000,
+              "temperature": 24,
+              "pressure": 12.0
+            },
+            {
+              "time": 1791821100000,
+              "temperature": 25,
+              "pressure": 12.5
+            }
+          ],
+          "enableHeader": true,
+          "pager": {
+            "enabled": false
+          }
+        }
+      }
+    ]
+  }
+}

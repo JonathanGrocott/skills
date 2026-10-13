@@ -1,0 +1,181 @@
+{
+  "custom": {
+    "draft": 0,
+    "applied": null,
+    "message": "No value applied yet."
+  },
+  "params": {
+    "value": 42
+  },
+  "props": {
+    "defaultSize": {
+      "width": 320,
+      "height": 350
+    }
+  },
+  "root": {
+    "type": "ia.container.flex",
+    "version": 0,
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column",
+      "style": {
+        "padding": "20px",
+        "gap": "12px",
+        "overflow": "auto",
+        "backgroundColor": "#f1f5f9",
+        "color": "#102a43"
+      }
+    },
+    "children": [
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Instructions"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Edit a local preview value (0\u2013100).",
+          "style": {
+            "fontSize": "16px",
+            "whiteSpace": "normal"
+          }
+        }
+      },
+      {
+        "type": "ia.input.numeric-entry-field",
+        "version": 0,
+        "meta": {
+          "name": "DraftValue"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "value": 0,
+          "inputBounds": {
+            "minimum": 0,
+            "maximum": 100
+          }
+        },
+        "propConfig": {
+          "props.value": {
+            "binding": {
+              "type": "property",
+              "config": {
+                "path": "view.custom.draft",
+                "bidirectional": true
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ia.input.button",
+        "version": 0,
+        "meta": {
+          "name": "ApplyPreview"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Apply preview"
+        },
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "type": "script",
+              "scope": "G",
+              "config": {
+                "script": "\tvalue = self.view.custom.draft\n\tif value is not None and 0 <= value <= 100:\n\t    self.view.custom.applied = value\n\t    self.view.custom.message = \"Applied locally: \" + str(value)\n\telse:\n\t    self.view.custom.message = \"Enter a value from 0 to 100.\""
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Result"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "",
+          "style": {
+            "fontSize": "16px"
+          }
+        },
+        "propConfig": {
+          "props.text": {
+            "binding": {
+              "type": "expr",
+              "config": {
+                "expression": "{view.custom.message}"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ia.input.button",
+        "version": 0,
+        "meta": {
+          "name": "Close"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Close"
+        },
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "type": "script",
+              "scope": "G",
+              "config": {
+                "script": "\tsystem.perspective.closePopup(\"skill-editor\")"
+              }
+            }
+          }
+        }
+      }
+    ],
+    "events": {
+      "system": {
+        "onStartup": {
+          "type": "script",
+          "scope": "G",
+          "config": {
+            "script": "\tself.view.custom.draft = self.view.params.value"
+          }
+        }
+      }
+    }
+  },
+  "propConfig": {
+    "params.value": {
+      "paramDirection": "input",
+      "persistent": true
+    }
+  }
+}

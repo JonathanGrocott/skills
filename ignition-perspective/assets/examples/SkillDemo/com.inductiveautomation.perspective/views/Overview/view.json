@@ -1,0 +1,213 @@
+{
+  "custom": {},
+  "params": {},
+  "props": {
+    "defaultSize": {
+      "width": 1000,
+      "height": 700
+    }
+  },
+  "root": {
+    "type": "ia.container.flex",
+    "version": 0,
+    "meta": {
+      "name": "root"
+    },
+    "props": {
+      "direction": "column",
+      "style": {
+        "padding": "20px",
+        "gap": "12px",
+        "overflow": "auto",
+        "backgroundColor": "#f1f5f9",
+        "color": "#102a43"
+      }
+    },
+    "children": [
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Title"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Perspective Skill Demo",
+          "style": {
+            "fontSize": "28px"
+          }
+        }
+      },
+      {
+        "type": "ia.display.label",
+        "version": 0,
+        "meta": {
+          "name": "Notice"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Synthetic data \u2022 no plant connections or writes",
+          "style": {
+            "fontSize": "14px"
+          }
+        }
+      },
+      {
+        "type": "ia.container.flex",
+        "version": 0,
+        "meta": {
+          "name": "EquipmentCards"
+        },
+        "position": {
+          "basis": "auto",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "direction": "row",
+          "wrap": "wrap",
+          "style": {
+            "gap": "12px"
+          }
+        },
+        "children": [
+          {
+            "type": "ia.display.view",
+            "version": 0,
+            "meta": {
+              "name": "Card1"
+            },
+            "position": {
+              "basis": "260px",
+              "grow": 1,
+              "shrink": 0
+            },
+            "props": {
+              "path": "Equipment/Card",
+              "params": {
+                "assetName": "Tank 1",
+                "value": 42,
+                "units": "%"
+              },
+              "useDefaultViewWidth": false,
+              "useDefaultViewHeight": true,
+              "style": {
+                "minHeight": "180px"
+              }
+            }
+          },
+          {
+            "type": "ia.display.view",
+            "version": 0,
+            "meta": {
+              "name": "Card2"
+            },
+            "position": {
+              "basis": "260px",
+              "grow": 1,
+              "shrink": 0
+            },
+            "props": {
+              "path": "Equipment/Card",
+              "params": {
+                "assetName": "Tank 2",
+                "value": 67,
+                "units": "%"
+              },
+              "useDefaultViewWidth": false,
+              "useDefaultViewHeight": true,
+              "style": {
+                "minHeight": "180px"
+              }
+            }
+          },
+          {
+            "type": "ia.display.view",
+            "version": 0,
+            "meta": {
+              "name": "Card3"
+            },
+            "position": {
+              "basis": "260px",
+              "grow": 1,
+              "shrink": 0
+            },
+            "props": {
+              "path": "Equipment/Card",
+              "params": {
+                "assetName": "Tank 3",
+                "value": 81,
+                "units": "%"
+              },
+              "useDefaultViewWidth": false,
+              "useDefaultViewHeight": true,
+              "style": {
+                "minHeight": "180px"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "type": "ia.input.button",
+        "version": 0,
+        "meta": {
+          "name": "OpenEditor"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "Open preview editor"
+        },
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "type": "script",
+              "scope": "G",
+              "config": {
+                "script": "\tsystem.perspective.openPopup(\"skill-editor\", \"Dialogs/Editor\", params={\"value\":42}, title=\"Preview editor\", modal=True, viewportBound=True)"
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "ia.input.button",
+        "version": 0,
+        "meta": {
+          "name": "GoHistory"
+        },
+        "position": {
+          "basis": "48px",
+          "grow": 0,
+          "shrink": 0
+        },
+        "props": {
+          "text": "View sample history"
+        },
+        "events": {
+          "component": {
+            "onActionPerformed": {
+              "type": "script",
+              "scope": "G",
+              "config": {
+                "script": "\tsystem.perspective.navigate(page=\"/history\")"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+}

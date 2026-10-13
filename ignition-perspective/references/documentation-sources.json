@@ -1,0 +1,1955 @@
+[
+  {
+    "title": "Perspective Components",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a327c5284ebd1a2f8126e1a5c4133e988134f25037ee742850ca074328c16df5"
+  },
+  {
+    "title": "Perspective - Chart Palette",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d0ca95b21626db4a8d6f04ab2cbc62ccd35a8c7c0c35ba8617e1460ed25825d4"
+  },
+  {
+    "title": "Perspective - Chart Range Selector",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-chart-range-selector",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-chart-range-selector.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "87c03b43ba8d283dbf61d03c78eb7a6626de023ae604626084b02376a3b4224b"
+  },
+  {
+    "title": "Perspective - Gauge",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-gauge",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-gauge.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5dc6a3708de504fbaf256bcdb23536a1992c6f3384743ac012ef9a48bd7c72b1"
+  },
+  {
+    "title": "Perspective - Pie Chart",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-pie-chart",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-pie-chart.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "eb66dd6f422ea0e52113152a97d6d5af8adf5c6bd3d070ec3fa6151a7fcc1660"
+  },
+  {
+    "title": "Perspective - Power Chart",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-power-chart",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-power-chart.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d921a3eec3881a3fc552fcc05aae6c3bc25eb52cad0aa5aaf458457d320af01f"
+  },
+  {
+    "title": "Perspective - Simple Gauge",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-simple-gauge",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-simple-gauge.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "89518a526153a4b8a0d138940db81a50a25c62071061597dcb464075cc1c4b85"
+  },
+  {
+    "title": "Perspective - Time Series Chart",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-time-series-chart",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-time-series-chart.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "c8277acc51dbb2d5691d219892f2e95545ac25a97988c8e27a0753286987ac50"
+  },
+  {
+    "title": "Perspective - XY Chart",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d8f5dd69f1cf722698172340717865fc51dba0b4c5c2ebf3134db671783e8a8e"
+  },
+  {
+    "title": "XY Chart Example - Bar Chart",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-bar-chart",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-bar-chart.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "bab059cb2e84d061f634ba990a47f884f15f684be6e1b301f3a06d037f18f989"
+  },
+  {
+    "title": "XY Chart Example - Candlestick Chart",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-candlestick",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-candlestick.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "7d565a83babaabe233ebd9765b5d6a5a28c863183135bf6bb840c9df5311dde0"
+  },
+  {
+    "title": "XY Chart Example - Gantt Chart",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-gantt-chart",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-gantt-chart.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "55bc075263b6221baa545281e9d1db34b3715b9fe7b8084bc413273f4e49eb80"
+  },
+  {
+    "title": "XY Chart Example - Heat Map",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-heat-map",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-heat-map.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8c5c6548a38d2d1e82c73ecd53b5caae7bc4ff71dc7b4edc2313964c0d9f39f7"
+  },
+  {
+    "title": "XY Chart Example - Line Chart Target Area",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-line-chart-target-area",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-chart-palette/perspective-xy-chart/xy-chart-example-line-chart-target-area.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "970d5382154dc42876297174fa70a8ed47dfad1f9ed1e1f997a87e0f6ad38246"
+  },
+  {
+    "title": "Perspective - Container Palette",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "caf6ab92abb96f472b0c4e2c4cc22d1b728ca1887f231c1389c13ef7b088982b"
+  },
+  {
+    "title": "Perspective - Breakpoint Container",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-breakpoint-container",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-breakpoint-container.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "63cf8275354ae9f5ff4e55c17cd2666603a337a5c8e0bd964b50c196f590ee2a"
+  },
+  {
+    "title": "Perspective - Breakpoint Container Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-breakpoint-container/perspective-breakpoint-container-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-breakpoint-container/perspective-breakpoint-container-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "94595125eaa59b32d4a8f0014d0281c6530862e275e482bf74a844cc7dde4195"
+  },
+  {
+    "title": "Perspective - Column Container",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-column-container",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-column-container.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "4fa780692010d26e206c5baafbf9e457254c818105b79c13504554e16ae7b404"
+  },
+  {
+    "title": "Perspective - Column Container Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-column-container/perspective-column-container-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-column-container/perspective-column-container-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ad9047d7d2b0c59b5cad964b696fca3ca254370eae7b8c74f4674610eeb65e8f"
+  },
+  {
+    "title": "Perspective - Coordinate Container",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-coordinate-container",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-coordinate-container.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "46fca865c8687810630bda25f39b2b8c6251ce83773b8a4963b93f0059af624d"
+  },
+  {
+    "title": "Perspective - Coordinate Container Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-coordinate-container/perspective-coordinate-container-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-coordinate-container/perspective-coordinate-container-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "e015ee80b39d0d88d8a58eb5596f6acd99ae349c10b46b40265194685e22d662"
+  },
+  {
+    "title": "Perspective - Flex Container",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-flex-container",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-flex-container.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "06b634c472ff80c425d24092eb5e86649f165f6637bd27a9a2b2a846ff5bbc93"
+  },
+  {
+    "title": "Flex Container User Interface",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-flex-container/flex-container-user-interface",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-flex-container/flex-container-user-interface.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "e4c7b4335d40de721e77dc5a9ec2067c67069870c92d8919f5c26295d87c2f0c"
+  },
+  {
+    "title": "Perspective - Flex Container Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-flex-container/perspective-flex-container-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-flex-container/perspective-flex-container-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ccad84f86994aef25bee28937b055692b37a6e928ec5a5b6d2b0ff8cbf0e6323"
+  },
+  {
+    "title": "Perspective - Split Container",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-split-container",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-split-container.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "7a0d141f940c1048138daadf65fa734878f665b716fcb20ee3799daadfdc9068"
+  },
+  {
+    "title": "Perspective - Split Container Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-split-container/perspective-split-container-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-split-container/perspective-split-container-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ecc00230dd0883152bba86319b2d3e6b68cc37f0ba1608e6cf1c0c142eb93c5e"
+  },
+  {
+    "title": "Perspective - Tab Container",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-tab-container",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-tab-container.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "61b2e8b825ac95f7a23cbfdc8b5c5fdffcd432902d58f5ba07d2f5ab79b1b026"
+  },
+  {
+    "title": "Perspective - Tab Container Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-tab-container/perspective-tab-container-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-container-palette/perspective-tab-container/perspective-tab-container-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "53ad6c44b37c551e49b51a417fae449a014a5a6c2a6f3c7135c0aeb416ffba7a"
+  },
+  {
+    "title": "Perspective - Display Palette",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "75a91afcd5333f53f26edbedbe76bdedee21c92f85651f1fc0802ee3a90798eb"
+  },
+  {
+    "title": "Perspective - Alarm Journal Table",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-journal-table",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-journal-table.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "87a60e68ea9a8017a68800bcc830e745b60cec29f8fe712c5b3cb6053b69e94a"
+  },
+  {
+    "title": "Perspective - Alarm Journal Table Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-journal-table/perspective-alarm-journal-table-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-journal-table/perspective-alarm-journal-table-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "1c84213da5bfbb3c5287bd03030612c7844831a4f4c6dcbc7078ca06a1c099b9"
+  },
+  {
+    "title": "Perspective - Alarm Status Table",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-status-table",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-status-table.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "306d3af0af200a2010f2324f6a39576ace26412bc671d886600787bf703df707"
+  },
+  {
+    "title": "Perspective - Alarm Status Table Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-status-table/perspective-alarm-status-table-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-status-table/perspective-alarm-status-table-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "321eede28c6a85b6cc6733b5122b271692894e7e2bc575d036a08a245fe506a9"
+  },
+  {
+    "title": "How To Restrict Acknowledgement on the Perspective Alarm Status Table",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-status-table/restrict-acknowledgement",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-alarm-status-table/restrict-acknowledgement.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "51ba504ca5107b0ceb90a7917ab028cd0b085b33561490c81da7346f596a57ef"
+  },
+  {
+    "title": "Perspective - Audio",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-audio",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-audio.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5072317ed31dc006627587c4858fabb982dcd83bd6b2d03a8ad50df053d2bcf1"
+  },
+  {
+    "title": "Perspective - Audio Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-audio/perspective-audio-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-audio/perspective-audio-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "70e365fb02f5630945091f06fe8b4d09c682bc52970bb8311fb9e0c1e0195c4e"
+  },
+  {
+    "title": "Perspective - Barcode",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-barcode",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-barcode.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "06b78160b17843a7584e7d44d2065de5bfe58c773b7b12648f1f12d24b36e1e6"
+  },
+  {
+    "title": "Perspective - Cylindrical Tank",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-cylindrical-tank",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-cylindrical-tank.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5afa9ec142270461bb837278b2cd16f7a70b66cffd31c7116902eb17dc6a406e"
+  },
+  {
+    "title": "Perspective - Dashboard",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-dashboard",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-dashboard.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "4877c6fa16f89d25b487042feb44dc9b47deec3298be5225f6bc456608db355e"
+  },
+  {
+    "title": "Configuring a Dashboard",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-dashboard/configuring-a-dashboard",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-dashboard/configuring-a-dashboard.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "359c8611a8572ad9c247fb89ef9a578fb88b61a8972849326e3e0d1cceffdcc7"
+  },
+  {
+    "title": "Perspective - Drawing",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-drawing",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-drawing.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "15c9e7cf5ebc9eeae5a7f870e39f7ec5b6840a8ddbdeb316e7d0cf0376b8f2e9"
+  },
+  {
+    "title": "Perspective - Drawing Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-drawing/perspective-drawing-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-drawing/perspective-drawing-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "85f7ee1f358d4f53b9ce4a440becd72afa0eea1445f21382efe317d778bb303a"
+  },
+  {
+    "title": "Perspective - Equipment Schedule",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-equipment-schedule",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-equipment-schedule.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "66062d5b41f0b39da5e636d8e672af4ae5fe4fcab4c68fe7ebfb24a14e63537c"
+  },
+  {
+    "title": "Perspective - Equipment Schedule Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-equipment-schedule/perspective-equipment-schedule-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-equipment-schedule/perspective-equipment-schedule-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "adeae8db4022d90ddb9de246b0b30032190ed75b5e6b88e93572a05451c79602"
+  },
+  {
+    "title": "Perspective - Google Map",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-google-map",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-google-map.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "35d964522b0ad443dca9595bea6a5aa1ee8ab2bf4cfc322908ac0b583c2d69c2"
+  },
+  {
+    "title": "Perspective - Google Map Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-google-map/perspective-google-map-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-google-map/perspective-google-map-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "64a192d461f5f81202ae9671477f8c11fba2b82b8e2ea370d29ce643bd7cbcee"
+  },
+  {
+    "title": "Perspective - Icon",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-icon",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-icon.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ab024149b80204fd977f97939aeecb655c0d8c7df272286244cfda6bdb720b82"
+  },
+  {
+    "title": "Perspective - Image",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-image",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-image.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5021da7bb0f404b6277de3dc1709f39aeb75051aef85e72e69a2ac590191c48a"
+  },
+  {
+    "title": "Perspective - Inline Frame",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-inline-frame",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-inline-frame.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "b3c81b141f350ef044069e953b0aca82b82dcb4066e76b8654e128f3ed343a03"
+  },
+  {
+    "title": "Perspective - Label",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-label",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-label.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "2999b402ebcebc5e96728ee34b3fb42034039c13ccdebba4d0455e1bba97fcbe"
+  },
+  {
+    "title": "Perspective - LED Display",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-led-display",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-led-display.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a33c964fe45e4419720ba63bf5e60493f41fa48e6cf6179f971d6102840432d7"
+  },
+  {
+    "title": "Perspective - Linear Scale",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-linear-scale",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-linear-scale.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ce9cc3c488f0e201e8216a3f7f862b5c5de688c64dd4d31ff5046a4a20666146"
+  },
+  {
+    "title": "Perspective - Map",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "3ff77be4eaad63875d9346377d624c8bfd537110ca567fc94ca21d3c7ff316a4"
+  },
+  {
+    "title": "Perspective - Adding GeoJSON Shapes",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map/perspective-map-adding-geojson-shapes",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map/perspective-map-adding-geojson-shapes.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "96363b987ca73236e38ce5e2c73eb46e6bc6fb6b2ac5b5a61ffffdc354ef6e89"
+  },
+  {
+    "title": "Perspective - Custom Controls Example",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map/perspective-map-custom-controls-example",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map/perspective-map-custom-controls-example.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "76cdd0d7d0dddfef073cd104a9ff288d29d98e7bf602d70c8d0c7fd7b46be463"
+  },
+  {
+    "title": "Perspective - Map Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map/perspective-map-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-map/perspective-map-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "aff54bb6b739b08fe38698e3c99993156f7347ff8e896add6999741ba8d05d4d"
+  },
+  {
+    "title": "Perspective - Markdown",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-markdown",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-markdown.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "7f3fed162d00b98c2b6916623576dc14a93cda67683f9b63686196aa46780d57"
+  },
+  {
+    "title": "Perspective - Moving Analog Indicator",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-moving-analog-indicator",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-moving-analog-indicator.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "2443d3da895106a619a422daf23fc3733d0356d843119703d59425d4fc39c364"
+  },
+  {
+    "title": "Perspective - PDF Viewer",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-pdf-viewer",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-pdf-viewer.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "4ffb1ffa97a8c565f718f5d9bb7af8312231d5e1d71a10b176af4a7e1d1989bb"
+  },
+  {
+    "title": "Perspective - PDF Viewer Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-pdf-viewer/perspective-pdf-viewer-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-pdf-viewer/perspective-pdf-viewer-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ab388cc1c5370de4c99bcbe7ac04b67ddd17a33b1d9e21ea827c834af358e82c"
+  },
+  {
+    "title": "Perspective - Progress",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-progress",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-progress.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "266bebd0e7bba1b56fba7dac0bd35e4f1818505620ec2919b0b653839c632b1e"
+  },
+  {
+    "title": "Perspective - Sparkline",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-sparkline",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-sparkline.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "0f61fb91b0dd48c9d607317e321cc72f30ff22c9e8d2816217e680a604315cd2"
+  },
+  {
+    "title": "Perspective - Table",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "6c3c4dcd5e103f392d00e3b27b26d6beb17c165f4166343b52d4d71415a9d522"
+  },
+  {
+    "title": "Displaying a Subview in a Table Row",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/displaying-a-subview-in-a-table-row",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/displaying-a-subview-in-a-table-row.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "98f141e24af742953f431672e93fece2ab3c31028a40a9fdd01977fd3e9430ac"
+  },
+  {
+    "title": "Perspective - Table Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/perspective-table-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/perspective-table-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "0cab990e1ec513bcc99501351648a80f93ac6b8762214b7bc9df125b2c30a350"
+  },
+  {
+    "title": "Styling Rows Based on Values",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/styling-rows",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/styling-rows.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "6dbc3619121e213063b4577fd704fa57e0acd584141bc3316eb50790522b9530"
+  },
+  {
+    "title": "Table Column Configurations",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/table-column-configurations",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-table/table-column-configurations.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "93d18b43c4db310552aada65c39834f778bcce2d3b5174bed3ff84c906890c0a"
+  },
+  {
+    "title": "Perspective - Tag Browse Tree",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tag-browse-tree",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tag-browse-tree.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "48375f40920d6f39ebb39a8b7c0d0337cad8a0452da44c6801642e6fcbf7b3e3"
+  },
+  {
+    "title": "Perspective - Tag Browse Tree Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tag-browse-tree/perspective-tag-browse-tree-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tag-browse-tree/perspective-tag-browse-tree-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "678a7a7828ec69a1fcdd06004891807fcc3e595a262b406b7b41398c64a87e2c"
+  },
+  {
+    "title": "Perspective - Thermometer",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-thermometer",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-thermometer.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "e4aab5d1504cedee2a540a97bcb988ead2181e3bd07ab565b09bf83e054c5ded"
+  },
+  {
+    "title": "Perspective - Tree",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tree",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tree.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "e70d12c9bbbeb5c084e24375969762914fc82fb3b6021dc502dbbab4a6000dd5"
+  },
+  {
+    "title": "Perspective - Tree Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tree/perspective-tree-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-tree/perspective-tree-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "977eff7fed65caa3cf96f6cca6f113711895a5db199f854e4911f951484ba8c1"
+  },
+  {
+    "title": "Perspective - Video Player",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-video-player",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-display-palette/perspective-video-player.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "17f8a09978af36787c1cca30585c1d7f04a86facf9ab42bd15b9cbbdf5c2f10a"
+  },
+  {
+    "title": "Perspective - Embedding Palette",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "80acbc3e3e5ea435fc4367dcebb6fff0d52033a9e6393f36d94c0aac1c6e2704"
+  },
+  {
+    "title": "Perspective - Accordion",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-accordion",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-accordion.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "6df9da9c034184ef38d6387db6b7a290e2bb033a6ecf98c8d254aee8da4d539e"
+  },
+  {
+    "title": "Perspective - Accordion Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-accordion/perspective-accordion-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-accordion/perspective-accordion-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8901c0d22855c398b9426efa07ab7ff0ebbbe9ccae5d3c5d40547cb0775b0ed9"
+  },
+  {
+    "title": "Perspective - Carousel",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-carousel",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-carousel.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8fd819da0c35899787fc53bbdea954c01f1a736e5e4666fd60ccb94ca6718194"
+  },
+  {
+    "title": "Carousel Component Examples",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-carousel/carousel-component-examples",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-carousel/carousel-component-examples.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "84fd621a6db9572a3f379c6207590ffedd0ae784df29ea31e65febc500b776c5"
+  },
+  {
+    "title": "Perspective - Embedded View",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-embedded-view",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-embedded-view.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "3c111cde581cfe22c6aa81415d0b15930ba31670109c3d41b994acd8b89a16e0"
+  },
+  {
+    "title": "Perspective - Flex Repeater",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-flex-repeater",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-flex-repeater.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ca16783db34e6328ff3cddf87b653a8b77ab581e08b6117a6adc485504ebd6c1"
+  },
+  {
+    "title": "Perspective - View Canvas",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-view-canvas",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-view-canvas.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "381fd03ace1c8a16265f4f1ae7ada097cf2d56213c8ec711169cde288cee2c0f"
+  },
+  {
+    "title": "Perspective - View Canvas Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-view-canvas/perspective-view-canvas-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-embedding-palette/perspective-view-canvas/perspective-view-canvas-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "35b118c7c7626ee6ab0abeed961d811a60b370de617f25bf8f97bd06bb0d9e9f"
+  },
+  {
+    "title": "Perspective - Input Palette",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "05d5a8d2ae2c5bcbfc216a466584f148984cfc5ae4376ef4522aa554c3fa60d6"
+  },
+  {
+    "title": "Perspective - Barcode Scanner Input",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-barcode-scanner-input",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-barcode-scanner-input.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "6758e95ca2dbc5e280dc8f096d055ec1bd78435404e0cd807bcc016bd85daf3f"
+  },
+  {
+    "title": "Perspective - Button",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-button",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-button.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "e8c5aa7d3c0898783afc7b29d800e60275e2625cda751b94b11bc1b1680f03d8"
+  },
+  {
+    "title": "Perspective - Checkbox",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-checkbox",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-checkbox.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "338190d810572cc560caf3b84955663bba55faeab2595397ccc7d075533a53df"
+  },
+  {
+    "title": "Perspective - DateTime Input",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-datetime-input",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-datetime-input.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "6e7be95d3e74ec0af918cfb79d8b397d9dcee4b67bc7719abb1cc4398eae2f56"
+  },
+  {
+    "title": "Perspective - DateTime Picker",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-datetime-picker",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-datetime-picker.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d90b943847abffef7f76bab4bdd1f7e1bd4645391d675bd917904a6c81315cde"
+  },
+  {
+    "title": "Perspective - Dropdown",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-dropdown",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-dropdown.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "adbc021619d65239b76cc29e9af75d282f258d2fa08d9c599d68a30f4c13503e"
+  },
+  {
+    "title": "Perspective - File Upload",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-file-upload",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-file-upload.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "935d159d6ca9385ceb9e3886ed2ac95e9bfedbbdd0d261ca6a421696894154b3"
+  },
+  {
+    "title": "Download and Upload Files",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-file-upload/download-and-upload-files",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-file-upload/download-and-upload-files.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "da8af4394462ba1522881756ba4c2eb1d27bccb4c1033ebe723cb2dd7e57843c"
+  },
+  {
+    "title": "Perspective - File Upload Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-file-upload/perspective-file-upload-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-file-upload/perspective-file-upload-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "f92cb55317b90deae5b4f282bcdf867d8a5013ebf79d8036d998a45459602539"
+  },
+  {
+    "title": "Perspective - Form",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-form",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-form.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "25a9b2d5629a99f1e776b0da085c1c272867c7fcc78d9e209f439a1501c9603d"
+  },
+  {
+    "title": "Perspective - Form Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-form/perspective-form-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-form/perspective-form-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8bc40bafce5a0a4415352b37a15db94e3c04218dffbabf91b9550a68dbd12083"
+  },
+  {
+    "title": "Perspective - Multi-State Button",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-multistate-button",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-multistate-button.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "4e72e3a373a1054bc464e5107e6dbc7e890ecd3f513b2797191717fe53a0c4c9"
+  },
+  {
+    "title": "Perspective - Numeric Entry Field",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-numeric-entry-field",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-numeric-entry-field.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "50a6c6044a133c19c3ad0a8e8b3ed29ab11dd5ede04baed0c1ca1eea31710eb0"
+  },
+  {
+    "title": "Perspective - One-Shot Button",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-one-shot-button",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-one-shot-button.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5661d1ada6ff9bfad4a0b5ed218372a0442d822fbafab9576972d0f04be79742"
+  },
+  {
+    "title": "Perspective - Password Field",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-password-field",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-password-field.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "1fc94d96e81d916fd193a9347501b24384ce1fc810756f9740fe41cc25a3cb4d"
+  },
+  {
+    "title": "Perspective - Radio Group",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-radio-group",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-radio-group.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "00a0485ab5a7fbbfbe26f2129acb8cee5443affc885f5436e6b669e184ecac53"
+  },
+  {
+    "title": "Perspective - Signature Pad",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-signature-pad",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-signature-pad.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "cd9826b9dd25355035d6e1ede906768bb6bdc18d9b05094040b0b1b3002eaf14"
+  },
+  {
+    "title": "Perspective - Signature Pad Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-signature-pad/perspective-signature-pad-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-signature-pad/perspective-signature-pad-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "3ad8501787ff7064a355b3d0fe326b57b57f59b8b8625c7131990404fae7516e"
+  },
+  {
+    "title": "Perspective - Slider",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-slider",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-slider.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d89ab17f13b751127c20fd2fb5ffbe2012c9cdf693a37392789f9f61c0eb307d"
+  },
+  {
+    "title": "Perspective - Text Area",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-text-area",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-text-area.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "471a1edfc96eaeb6d6a1d999b906c49e042f44efa21ed6be2b585c47267479a1"
+  },
+  {
+    "title": "Perspective - Text Field",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-text-field",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-text-field.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d3df6234a88fdcb33da81fea28775ef3de8327c4dc0b22d20cedd278eab5f36d"
+  },
+  {
+    "title": "Perspective - Toggle Switch",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-toggle-switch",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-input-palette/perspective-toggle-switch.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "964d0b4773bc200b42d2c47f705f6becfe4e9eaf9ff8678571c7b125d5136da3"
+  },
+  {
+    "title": "Perspective - Navigation Palette",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "bd29a2cadd95d4da4d5247094b07260da6a13cd6f9d50abb40088e8c264c146f"
+  },
+  {
+    "title": "Perspective - Horizontal Menu",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-horizontal-menu",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-horizontal-menu.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "c998d6b429ed11504d1cfe98e28c5ddec0199dac6eeb553df2cee5bb5cd13cc4"
+  },
+  {
+    "title": "Navigating with the Horizontal Menu Component",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-horizontal-menu/navigating-with-the-horizontal-menu-component",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-horizontal-menu/navigating-with-the-horizontal-menu-component.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "2d77fe33bf1ab96421789ca74fd2c28f13c8f3b3dddbd2fcba557c7bfeb6e2f1"
+  },
+  {
+    "title": "Perspective - Horizontal Menu Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-horizontal-menu/perspective-horizontal-menu-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-horizontal-menu/perspective-horizontal-menu-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "74093be34daef04eb2d836fbf8ba3dbc1dbfdde7302aace45dc26759b97d33eb"
+  },
+  {
+    "title": "Perspective - Link",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-link",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-link.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a9fdeec21b73d4dc71023799a575fa973b900b0ad9f1f64fb51069b169b48644"
+  },
+  {
+    "title": "Perspective - Menu Tree",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-menu-tree",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-menu-tree.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "77a5dc9726297c6be49a31ea9294d16838e407ecf1d8a0847140d518f4edc696"
+  },
+  {
+    "title": "Perspective - Menu Tree Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-menu-tree/perspective-menu-tree-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-navigation-palette/perspective-menu-tree/perspective-menu-tree-scripting.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "99afe2b8abbbb9fa19bbbfda750b43b9ea3387b2053ef491704cb2788985f39c"
+  },
+  {
+    "title": "Perspective - Report Viewer",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-report-viewer",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-report-viewer.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "9fbb00fafa617480793e268336ffa5384d7b4303a3366cd9d9f02df62909e594"
+  },
+  {
+    "title": "Perspective - Symbols Palette",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "00c03422850090470e128ae578f6b6d83c07f08959144de232f752854f9f6f59"
+  },
+  {
+    "title": "Perspective - Motor",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-motor",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-motor.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "26121b54cc6f9e6aea628370a92567b79f733dec8d372971f7dbd631d9445731"
+  },
+  {
+    "title": "Perspective - Pump",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-pump",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-pump.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "733bdc2f0859dc3cd4a1d44f8b89a3fd9a3618e622d8967db776feaf4889843b"
+  },
+  {
+    "title": "Perspective - Sensor",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-sensor",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-sensor.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "c3e0b52bd3fc0a08bb5df016360f4303db9338c3b5a6fc58b197813d48fff7c1"
+  },
+  {
+    "title": "Perspective - Valve",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-valve",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-valve.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "235101ea1e61a53fcf62fa1320ab98a75a7e141863fda59bd0d09b44adb8237d"
+  },
+  {
+    "title": "Perspective - Vessel",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-vessel",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-symbols-palette/perspective-vessel.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a8a24e5c6a19e8dedf271ad4cd8acbc222d06afb707bb88ae76df1ed91e0ae08"
+  },
+  {
+    "title": "Perspective - View Object",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-view-object",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/components/perspective-components/perspective-view-object.md",
+    "category": "component",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8ec1f29b74b6f6e5b28843b66181147fc02da8284ad88ab6e2c7b7793d7119ef"
+  },
+  {
+    "title": "Gateway Folder Structure Reference",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/gateway-folder-structure",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/gateway-folder-structure.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "fc38ea58dd9b453bfa091d52021c9e846889682b9708d10386ba5b900d9ec892"
+  },
+  {
+    "title": "Perspective Event Types Reference",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/perspective-event-types-reference",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/perspective-event-types-reference.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "cce488016ed1ecad37ea8ec6066bfe5cf4a0566f1a7d76b4291112bcb90504e4"
+  },
+  {
+    "title": "resource.json File",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/resource-json-file",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/resource-json-file.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "39e4ad9e6b777dcda88042f358d30c2b3ecfebecff82cd367eb1d459cac5e193"
+  },
+  {
+    "title": "Style Reference",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/style-reference",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/reference-pages/style-reference.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "f6896dc641c57e9f250bf3a57bd1affd290ef3f92f38c4673ed4ec5205fb9b78"
+  },
+  {
+    "title": "system.perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "6680b11b579e7934f406c757bdcbde96cf80c66c0ee08a979d7f478a31de5ffe"
+  },
+  {
+    "title": "system.perspective.alterDock",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-alterDock",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-alterDock.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "9339c9fed1862e185aa7ef82d47d92101250957f475ad3ac0c6bf36563d4c662"
+  },
+  {
+    "title": "system.perspective.alterLogging",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-alterLogging",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-alterLogging.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d682b5cb08850ecec791479d1acde83411e047eae23850a0b6e5040332cfcf1a"
+  },
+  {
+    "title": "system.perspective.authenticationChallenge",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-authenticationChallenge",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-authenticationChallenge.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8a890f4720a748ff3c86ffeb3a8a4d4a22d413d4177c3b0075839606505c6969"
+  },
+  {
+    "title": "system.perspective.closeDock",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closeDock",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closeDock.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "53ece389980a7b7b2deaf9dd4696b25bbf79b0996003e76c858a39dc9d46abf0"
+  },
+  {
+    "title": "system.perspective.closePage",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closePage",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closePage.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "368f738e02fbae5d0dc1269de6d92f3213ff348001c24bfb389f24e56e29031a"
+  },
+  {
+    "title": "system.perspective.closePopup",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closePopup",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closePopup.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "19b36873bb31d0f9167fa82c19ec7002119f5f256f656ca55e789e627f97fd3e"
+  },
+  {
+    "title": "system.perspective.closeSession",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closeSession",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-closeSession.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "95fd2c8f2da145047b751e655a09f03b93a0a5d633ffacb161eb7586a4c20ecd"
+  },
+  {
+    "title": "system.perspective.download",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-download",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-download.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "05e8ca1311e48495dc62b5750ad1a732d352c2dd6da4c19dfdc13707ca8d423e"
+  },
+  {
+    "title": "system.perspective.getProjectInfo",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-getProjectInfo",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-getProjectInfo.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "623789d26b2e455f9c01b3fa2c70e46b85bead36e66f890206c3a040e8c9f44b"
+  },
+  {
+    "title": "system.perspective.getSessionInfo",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-getSessionInfo",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-getSessionInfo.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "435c12a76220dc2307cf6e2044739d93f8e6b96e25c8693781d95b0a86f70e72"
+  },
+  {
+    "title": "system.perspective.isAuthorized",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-isAuthorized",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-isAuthorized.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8540e4224172fb9d0f1276e7282acf39587122674c749b9b83ddea85933c8c0d"
+  },
+  {
+    "title": "system.perspective.login",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-login",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-login.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "4ebc134213d7a2c4ec1301293e5fffe50228da8aff2cd1ecba263d1db20cf9d7"
+  },
+  {
+    "title": "system.perspective.logout",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-logout",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-logout.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "2419c96db419302d0a7a313d983817cfecddce39e36125eab1d9e1afe98fbb6f"
+  },
+  {
+    "title": "system.perspective.navigate",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-navigate",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-navigate.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "da733b485b14c88b34c033f0f02ba37976bc75220f1a27f10e1971a3ab09a8bd"
+  },
+  {
+    "title": "system.perspective.navigateBack",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-navigateBack",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-navigateBack.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "4cb78d2fb5acf788c33112cffdcdf17ddd84fac9df0e0572b3a7a45a982f408a"
+  },
+  {
+    "title": "system.perspective.navigateForward",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-navigateForward",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-navigateForward.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "2219cbdb8b32a76682f7541c69bb25ef9b72fc624d1d3fdb0cf5a6ad16d543d4"
+  },
+  {
+    "title": "system.perspective.openDock",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-openDock",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-openDock.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a04d860e30a6270dd159c0d4e2dafd7dda458975eb9330a576b615cb6aeee1db"
+  },
+  {
+    "title": "system.perspective.openPopup",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-openPopup",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-openPopup.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a5c30da1fb7a104241e7bfbf581f1f5a82a4b4b0afc4a614bf050aaee5403efc"
+  },
+  {
+    "title": "system.perspective.print",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-print",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-print.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "3e8a50d18af57d0d893962c9518491908b759c57edbc75a76ed841d187817a5e"
+  },
+  {
+    "title": "system.perspective.refresh",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-refresh",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-refresh.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "304e180449ba360b23a3e97dd4a05f3ca3457706fa2fc9160ae2e010eeca437e"
+  },
+  {
+    "title": "system.perspective.sendMessage",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-sendMessage",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-sendMessage.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d095dfa6c1adb6cbc26292108db16630399464a6353c8e355734f755c5031dd3"
+  },
+  {
+    "title": "system.perspective.setTheme",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-setTheme",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-setTheme.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "afd6b346a46c3e62e39cb9e9976535f38b00b2b1dfbead0826467845629543f9"
+  },
+  {
+    "title": "system.perspective.toggleDock",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-toggleDock",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-toggleDock.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a63431f959102c5bf51d75a1a5216539472c07f65775a0530e70f2ae45499bb1"
+  },
+  {
+    "title": "system.perspective.togglePopup",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-togglePopup",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-togglePopup.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5ebd6e5dbcdd6637000e6449f15c460ce02424d7f4cc25e608ed72a6c2f17196"
+  },
+  {
+    "title": "system.perspective.vibrateDevice",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-vibrateDevice",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-vibrateDevice.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "eb3fccd547d6849e290deb8f9daf446855b21a258dae5dea3717cfb4704396df"
+  },
+  {
+    "title": "system.perspective.workstation",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "000f15650f4cdf05e439280ef486ea6149cfadd3891bedfc508bce01ccbabc74"
+  },
+  {
+    "title": "system.perspective.workstation.exit",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation/system-perspective-workstation-exit",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation/system-perspective-workstation-exit.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "b5619f73183af37b4bd22c4dc95e0cc09432feeaf71a3f074a60561451923c36"
+  },
+  {
+    "title": "system.perspective.workstation.toKiosk",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation/system-perspective-workstation-toKiosk",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation/system-perspective-workstation-toKiosk.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "f943a4fb702eed863efd7ee9e4a3ba84d97018555ee5a325f186b5f42938082c"
+  },
+  {
+    "title": "system.perspective.workstation.toWindowed",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation/system-perspective-workstation-toWindowed",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/appendix/scripting-functions/system-perspective/system-perspective-workstation/system-perspective-workstation-toWindowed.md",
+    "category": "function",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "39934e488b5a723bd2325af364e49753cb1fc300d43643f792924e0d25fa9fb9"
+  },
+  {
+    "title": "Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d91c851869ec23ac48ce675f10aa7b10332d2bded7a272e317a742b491576b29"
+  },
+  {
+    "title": "A Vision-Oriented Guide to Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/a-vision-oriented-guide-to-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/a-vision-oriented-guide-to-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5aa2be2267d8e16e20f671af6f433a6e44a70bf05b0a97a6c55fa379b5c5d561"
+  },
+  {
+    "title": "Pages in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/pages-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/pages-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "254c34a61da453caea9d26ae8ab3ae3c4b2c66a5623c620b6dfc15c55aaecefe"
+  },
+  {
+    "title": "Perspective Co-Branding",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-co-branding",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-co-branding.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "93fc9119f58f238bdac34aa3f12a9a697a13205cf7e1a6c0ad480d80bfa03c3e"
+  },
+  {
+    "title": "Perspective Design Tips",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-design-tips",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-design-tips.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a7f237f763896a08d9c72c8c2ce0cdb9b3c04e148d962e0182dd4b2140f8306b"
+  },
+  {
+    "title": "Perspective Designer Interface",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-designer-interface",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-designer-interface.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "9364ebcd064aa14f6d939e7cba719cff5544f84265dd071461cbd8e5b2adfc11"
+  },
+  {
+    "title": "Perspective Project Properties",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-project-properties",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-project-properties.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "39baba7eea1d43e32ff9ab4b4739d000db38c3e057728c78f2df66db2e322d68"
+  },
+  {
+    "title": "Perspective Sessions",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "17c088eacd088b6f8b47c2ab28e294c89f2e5ca3d516c06c18193396ae592829"
+  },
+  {
+    "title": "Ignition Perspective Mobile App",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/ignition-perspective-app",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/ignition-perspective-app.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "dd5356b3ccfebedeeceaa732a50ca0f353e41324e6141bfafbcc676802d3a55d"
+  },
+  {
+    "title": "Offline Mode",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/ignition-perspective-app/offline-mode",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/ignition-perspective-app/offline-mode.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "3eacd89f2bc85a1dc5f371792157bfcc1548e20a385e6c52ecdd54c9cce6d212"
+  },
+  {
+    "title": "Reverse Proxy Considerations",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/perspective-session-proxy-considerations",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/perspective-session-proxy-considerations.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "7d256bfd2d5990440d30340dc1ef7481685ebd0c3f34d6f7c5be8b1fc09cd7d9"
+  },
+  {
+    "title": "Session Properties",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/session-properties",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/perspective-sessions/session-properties.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "e7a66502ec4f73c78c4d7f68bf9c0fb8054e5536bb3c3abf066c4cfe1df7b6a2"
+  },
+  {
+    "title": "Scripting in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "dae5796eb4066a25965370023c75f20c2a601d50ce3abbaa8b3d9a509facc9d3"
+  },
+  {
+    "title": "Component Message Handlers",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/component-message-handlers",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/component-message-handlers.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "3983ee1652ded5b1895b0b01cedeaa6a25d09a2d5eecca7e9076438e4d0e367c"
+  },
+  {
+    "title": "Perspective Component Methods",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/perspective-component-methods",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/perspective-component-methods.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "c19a6f4b4b91dbe8e357ab2eaffb1991bfb4465082525105d576b735e690fa76"
+  },
+  {
+    "title": "Perspective Property Change Scripts",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/perspective-property-change-scripts",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/perspective-property-change-scripts.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "749498deccd284bf1ef7beaba51cace982b346fb85bcfe2afeaac34104e6c7e2"
+  },
+  {
+    "title": "Perspective Event Scripts",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/perspective-session-events-scripts",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/scripting-in-perspective/perspective-session-events-scripts.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8b3be06576e74dd4f80dd3bf71e4d1a46e5c9db86be95723bd23d2b36120e4ac"
+  },
+  {
+    "title": "Security in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/security-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/security-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "cb79561d37c9382294151e6aef8c4647a0103e1c0cbb4cebdf8928a9db693ac7"
+  },
+  {
+    "title": "Styles",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "717980a19d7d6962f520aa1c1ec0a3f374ecfce5ffa57cf5b912615108ce834d"
+  },
+  {
+    "title": "Creating and Using Custom Perspective Themes",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/creating-and-using-custom-perspective-themes",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/creating-and-using-custom-perspective-themes.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "fc36e170329cb44bbd709e358b99556ea21d0ae6fea1766cb939237abebd0e40"
+  },
+  {
+    "title": "Perspective Built-In Themes",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/perspective-built-in-themes",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/perspective-built-in-themes.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "61c989795c6cace356be4b1e1d13f016a6c98b69d64149e0f85c8a3c1f6cbfc4"
+  },
+  {
+    "title": "Changing the Theme from a Session",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/perspective-built-in-themes/changing-the-theme-from-a-session",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/perspective-built-in-themes/changing-the-theme-from-a-session.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "e652365c9bfd6da06db23f9d44db92b41dd3ccacf2fbfccd9da385c8a3f7590e"
+  },
+  {
+    "title": "Style Classes",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ead5a346f235f2b5ab81b413a9089c1e5d8bed3af5bf83c43d5450065237c0a5"
+  },
+  {
+    "title": "How to Change Style on Hover",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes/how-to-change-style-on-hover",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes/how-to-change-style-on-hover.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d933a618803288506521841fa7653dc6720216555fc8feaeaaca53a1acbd6d71"
+  },
+  {
+    "title": "How to Change Text Size Based on Width",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes/how-to-change-text-size-based-on-width",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes/how-to-change-text-size-based-on-width.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "9d9042dda1c158723a7c00b8500ab74ae2348a1d8e2b9a0aa048da6a782fad22"
+  },
+  {
+    "title": "How to Create a Flashing Component",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes/how-to-create-a-flashing-component",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/styles/style-classes/how-to-create-a-flashing-component.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "6b989e5b2eccfa5791dd227232df8c361f5a4c1a07b18bf3ab6bc8e2fc5cd2f9"
+  },
+  {
+    "title": "Time Zones in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/time-zones-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/time-zones-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "aeea8adaa52a4676b490a065995f94fd85c340921e03edb16032a9ae1c52f55f"
+  },
+  {
+    "title": "Views in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "06bc73fbb242542dd0dc8566f952d14adf876ffd096d7efe6c1b336b3acfad6f"
+  },
+  {
+    "title": "Docked Views",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/docked-views",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/docked-views.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "5c4e734ece4e6772979b46f5c9d27f32745449c351242f88b74c531aed6a3c65"
+  },
+  {
+    "title": "Embedded Views",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/embedded-views",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/embedded-views.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "c81616c46f9ab68d22f5ac8be412ebc60d06e3a7ebd315b1c128e4bc53690829"
+  },
+  {
+    "title": "Popup Views",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/popup-views",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/popup-views.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "f0aef7543b57d05755d64acfeb6c41f3fcd76ec46961a57303e0564d2bbda371"
+  },
+  {
+    "title": "Self-Hiding Navigation Drawer",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/self-hiding-navigation-drawer",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/views-in-perspective/self-hiding-navigation-drawer.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "554606975b53476e1b2844ce7db48dc82d22bb2e063cd8e9a2810e4d877a4a8b"
+  },
+  {
+    "title": "Working with Perspective Components",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "92ae1fd175a716dc29794578a85b7f16edd96217eaacaa2a073a6c27b03ccd10"
+  },
+  {
+    "title": "Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "387297777d979f3f1cec04dc40958ec0214d276c15ae76ef6ac1c966c5b3773c"
+  },
+  {
+    "title": "Binding Property Path Reference",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/binding-property-path-reference",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/binding-property-path-reference.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "8ea81b1f30ee63424d5763200f58ed9034efe508a8e9a3fef21bbe1121417747"
+  },
+  {
+    "title": "Expression Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/expression-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/expression-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "ca056e098c62aebbca93651a644182605cc42b25e0f37de2723235dccf1daeb6"
+  },
+  {
+    "title": "Expression Structure Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/expression-structure-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/expression-structure-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a83b95174830a54440ca04809916ada736375409e008e041a49a6cd3c5b66cb9"
+  },
+  {
+    "title": "HTTP Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/http-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/http-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d6937d63236e99266777b228774f4830ee7161ba7a39f59320ec1ff5df3e7701"
+  },
+  {
+    "title": "MongoDB Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/mongodb-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/mongodb-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "bc846f1d9be70e5d532ab04f52627bacdd6dd4201027cd5c31c0f43e2a879ae2"
+  },
+  {
+    "title": "Property Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/property-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/property-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "306a55595ac52dabededfa004c6f690bda65fc84ff42e30a17c03fe6d6f95cd7"
+  },
+  {
+    "title": "Query Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/query-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/query-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "b8925966eb41696eaee60c86ec16497368f6e0ebc6c32487b3cc14c01d96620e"
+  },
+  {
+    "title": "Tag Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/tag-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/tag-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "f5af4f94e70e925ff4c6171697cc1c758f659f47c9d5590bfdffd02999ae6cba"
+  },
+  {
+    "title": "Drop Configuration",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/tag-bindings-in-perspective/drop-configuration",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/tag-bindings-in-perspective/drop-configuration.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "7c140a3f2e3262b25c2ae322145ed0be3085109e1630e59d1d9af933fb537995"
+  },
+  {
+    "title": "Tag History Bindings in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/tag-history-bindings-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/tag-history-bindings-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "326e4f47155f3b2bad773504d8ee21448f63aecf18bc078ea2ba91aede5a6e4b"
+  },
+  {
+    "title": "Transforms",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "9b1d556fdb90296adf1103a1181de6bc724a1bad16ec43ec5064f2ea0b5f2b57"
+  },
+  {
+    "title": "Expression Transform",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/expression-transform",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/expression-transform.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "22e4eeaad6d784869e1e98a20f628f59f673f1cba4d5e47ea0f32647a9cb7a68"
+  },
+  {
+    "title": "Format Transform",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/format-transform",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/format-transform.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "12462061939c21ec43119502649d334dbea34adda4e357ee6297c003039a6a92"
+  },
+  {
+    "title": "Map Transform",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/map-transform",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/map-transform.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "577f56be33741516d3248200cbd04bec7d5e9b0a706ecba3cb920c9168b3cc2a"
+  },
+  {
+    "title": "Script Transform",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/script-transform",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/bindings-in-perspective/transforms/script-transform.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "d67bf60edf1f5b2acab162fa700bf936030e39c0cc63461a157bc1926d07bd53"
+  },
+  {
+    "title": "Component Events and Actions",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/component-events-and-actions",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/component-events-and-actions.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "db7ed88847e675c75d90b2a0a8f0903bc500de2fba762280b96233a8cc152b5a"
+  },
+  {
+    "title": "Images and Icons in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/images-and-icons-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/images-and-icons-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "9a50b745aeb0d025a29016fc0396f4b684cc2c8058216b4b8cff88b2cdec9fb7"
+  },
+  {
+    "title": "Localization in Perspective",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/localization-in-perspective",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/localization-in-perspective.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "04bcfe41a0ad6af36866df11aba47069c62ad191b11a2379e8884a91ba455dfe"
+  },
+  {
+    "title": "Perspective Component Properties",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/perspective-component-properties",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/perspective-component-properties.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "fd36c57502d974017bc542dc605d7c9c853be79b57ce13609b5246898a060d59"
+  },
+  {
+    "title": "Perspective Pipes",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/perspective-pipes",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/ignition-modules/perspective/working-with-perspective-components/perspective-pipes.md",
+    "category": "guide",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "069758c785adc208bfa120d5a336f71b2128e9a76ce8c6562c5cdfd782d90827"
+  },
+  {
+    "title": "New in this Version \ud83d\udce3",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/new-in-this-version",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/new-in-this-version.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "4d984e9bf1a85a49eda0389afd2d6624ddc41a35ff5d4e586033d270137e843b"
+  },
+  {
+    "title": "API Documentation",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/gateway/openapi",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/gateway/openapi.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "acea5db49f125db6cee4d3a2776e4297880f776a5f5f8f0e6c78c8e717dc7d4a"
+  },
+  {
+    "title": "Project Export and Import",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/projects/project-export-and-import",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/projects/project-export-and-import.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a9e5b2cf9d9d500f16302493fa29cb4aed8e2eb18253d5b7f6618f714dc90cbd"
+  },
+  {
+    "title": "Project Inheritance",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/projects/project-inheritance",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/projects/project-inheritance.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "011cee2f089941bcb60e021704a2624a0f1390e307926ac5f5c6d2ef5f0468f5"
+  },
+  {
+    "title": "Python Scripting",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/scripting/python-scripting",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/scripting/python-scripting.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "1a056f4dc992e67a86a9c008f3443796801a82f1125523e195e16d8e903cc120"
+  },
+  {
+    "title": "API Keys",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/security/api-keys",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/security/api-keys.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "cbb8465419b843cf791801624ea73db980b152de1329ff7a9f53e7573e0e8266"
+  },
+  {
+    "title": "Named Queries",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/sql-in-ignition/named-queries",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/platform/sql-in-ignition/named-queries.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "32f7615d736dc587e1f2f6f599ab2507152cc63c72cc209fedf610e956f9f013"
+  },
+  {
+    "title": "Version and Source Control Guide",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/tutorials/version-control-guide",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/tutorials/version-control-guide.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a1e00d9c8e233a67ab36d6600216a61492a82abb28cb96278dc9360146e37df0"
+  },
+  {
+    "title": "Best Practices for Using Git in a Team Environment",
+    "url": "https://www.docs.inductiveautomation.com/docs/8.3/tutorials/version-control-guide/best-practices-for-team-environments",
+    "markdown_url": "https://www.docs.inductiveautomation.com/docs/8.3/tutorials/version-control-guide/best-practices-for-team-environments.md",
+    "category": "support",
+    "review_date": "2026-10-12",
+    "review_method": "section, property/event table, caveat and signature review; selected workflow examples examined in depth",
+    "sha256": "a882eccaf8656d4ff5a89d153487cde5aa7836fb12d95f8ee4ece7d45ef42974"
+  }
+]
